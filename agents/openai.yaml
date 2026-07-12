@@ -1,0 +1,4 @@
+interface:
+  display_name: "MixPPT Kim"
+  short_description: "Create and redesign polished PPTX and PDF decks"
+  default_prompt: "Use $mixppt-kim to turn my material into an editable, visually polished PPTX and a matching PDF."
